@@ -38,6 +38,6 @@ Maximum created a unified autosplitter which supports the individual and multi-g
 
 ## Issues
 - If you have any issues with setting up the ActiveX Flash Player, please ask for help [here.](https://discord.com/channels/669649577846243328/1241932927257018439)
-- If you have any issues with setting up the autosplitter, please ask for help [here.](https://discord.com/channels/669649577846243328/1241932927257018439)
+- If you have any issues with setting up the autosplitter, please ask for help [here.](https://discord.com/channels/669649577846243328/1023959646433726504)
 - If you find any bugs in the games or the autosplitter, please create an issue on the [GitHub repo.](https://github.com/ItsMaximum/Red-Ball-Definitive-Collection/issues)
 - If you want an updated version of a game to be included in the next Definitive Collection release, please open a [pull request](https://github.com/ItsMaximum/Red-Ball-Definitive-Collection/pulls), including the new version as an attachment.
