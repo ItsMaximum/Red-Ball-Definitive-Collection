@@ -7,11 +7,11 @@ ActiveX Flash Player is a wrapper created by Maximum that is powered by the incl
 ### [ActiveX Flash Player Setup Tutorial](https://youtu.be/fEYReWZnD-E)
 
 ### Keybinds
-- Ctrl + Shift + F - Enable / Disable Fullscreen
-- Ctrl + Shift + Q - Cycle Quality Option (Low, Medium, High)
-- Ctrl + Shift + K - Open Window Size Dialog (Disabled in Fullscreen)
-- Ctrl + Shift + P - Trigger the Flash "Play" Function (May be Needed to Start Some Games)
-- Ctrl + Shift + Right / Left - Cycle Through the Red Ball Games (Full Series.exe only)
+- **Ctrl + Shift + F** - Enable / Disable Fullscreen
+- **Ctrl + Shift + Q** - Cycle Quality Option (Low, Medium, High)
+- **Ctrl + Shift + K** - Open Window Size Dialog (Disabled in Fullscreen)
+- **Ctrl + Shift + P** - Trigger the Flash "Play" Function (May be Needed to Start Some Games)
+- **Ctrl + Shift + Right / Left** - Cycle Through the Red Ball Games (Full Series.exe only)
 
 ## Usage
 The provided .swf files can be opened in multiple ways, but it is recommended to do the following:
