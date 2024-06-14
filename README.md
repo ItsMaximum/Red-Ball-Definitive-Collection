@@ -3,7 +3,7 @@
 This is a collection of the best versions of every single Red Ball flash game, including various mods, IGT Editions, practice hacks, and TAS hacks
 
 ## ActiveX Flash Player (Windows Only)
-ActiveX Flash Player is a wrapper created by Maximum that is powered by the included .ocx plugin. This wrapper adds some features over the standard Flash player, including a change quality hotkey and a window size modifier. It also provides access to 64-bit Flash 11.5, which features improved performance compared to versions 11.7 and beyond and is necessary to perform some strategies in the Red Ball games. If you need 32-bit Flash for whatever reason, it is recommended to use the Flash Player 11.4 executable included in the "Other Flash Players" folder. However, keep in mind that the autosplitter will only work when using the ActiveX player.
+ActiveX Flash Player is a wrapper created by Maximum that is powered by the included .ocx plugin. This wrapper adds some features over the standard Flash player, including a change quality hotkey and a window size modifier. It also provides access to 64-bit Flash 11.5, which features improved performance compared to versions 11.7 and beyond and is necessary to perform some strategies in the Red Ball games. If you need 32-bit Flash for whatever reason, it is recommended to use the Flash Player 11.4 executable included in the "Other Flash Players" folder. Use either Flash 30.0 or Flash 32.0 if you are playing Red Ball 5. However, keep in mind that the autosplitter will only work when using the ActiveX player.
 ### [ActiveX Flash Player Setup Tutorial](https://youtu.be/fEYReWZnD-E)
 
 ### Keybinds
